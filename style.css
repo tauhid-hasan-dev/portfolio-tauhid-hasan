@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+section{
+    display: flex;
+}
+
+.width-half{
+    width: 50%;
+    background-color: tomato;
+    height: 100%;
+}
