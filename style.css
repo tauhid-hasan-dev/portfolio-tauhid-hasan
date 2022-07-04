@@ -9,6 +9,9 @@ section{
 
 .width-half{
     width: 50%;
+   
+}
+
+.left-section-one{
     background-color: tomato;
-    height: 100%;
 }
